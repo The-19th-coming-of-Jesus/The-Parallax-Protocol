@@ -28,6 +28,44 @@ Right yeah so I had some 01:00 inspiration and here it is.
     - [Tenebridae Carnifex (Carnifex, Latin "executioner"), Reapers](#tenebridae-carnifex-carnifex-latin-executioner-reapers)
     - [Tenebridae Nebulaphaga (Nebula, Latin "mist"; Phaga, Latin "eater"), Fog Eaters](#tenebridae-nebulaphaga-nebula-latin-mist-phaga-latin-eater-fog-eaters)
     - [Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers](#tenebridae-furivolans-furor-latin-rage-volans-latin-flying-swarmers)
+  - [Mission Types](#mission-types)
+    - [General missions](#general-missions)
+      - [Eliminate Horde](#eliminate-horde)
+      - [Eliminate High-Value Target](#eliminate-high-value-target)
+      - [Investigate Area](#investigate-area)
+      - [Protect Convoy/Research Team](#protect-convoyresearch-team)
+      - [Gather Supplies](#gather-supplies)
+      - [Retrieve Special Item](#retrieve-special-item)
+    - [Special Missions](#special-missions)
+      - [Reality Calibration](#reality-calibration)
+      - [Chronometric Heist](#chronometric-heist)
+      - [Void Reconnaissance](#void-reconnaissance)
+      - [Echo Genesis](#echo-genesis)
+      - [Entropy Containment](#entropy-containment)
+      - [Temporal Sabotage](#temporal-sabotage)
+      - [Lost Voices](#lost-voices)
+      - [Echo Refraction](#echo-refraction)
+      - [Void Salvage](#void-salvage)
+      - [Dimensional Diplomacy](#dimensional-diplomacy)
+      - [Settlement Raids](#settlement-raids)
+  - [The Ending](#the-ending)
+  - [Maps](#maps)
+    - [Elysium Derelicts](#elysium-derelicts)
+    - [Hyperion Stations](#hyperion-stations)
+    - [The Icarus Belt](#the-icarus-belt)
+    - [The Whispering Caverns](#the-whispering-caverns)
+    - [Zephyr Outposts](#zephyr-outposts)
+    - [Calypso Archives](#calypso-archives)
+    - [Theta class Nexus Relays](#theta-class-nexus-relays)
+    - [Perdition Arks](#perdition-arks)
+    - [Lucidity Cathedrals](#lucidity-cathedrals)
+    - [Rift Stations](#rift-stations)
+  - [Agents](#agents)
+    - [Weaponry](#weaponry)
+    - [Gadgets](#gadgets)
+    - [Other mechanics](#other-mechanics)
+    - [Abilities](#abilities)
+    - [Stats](#stats)
   - [Other useful stuff:](#other-useful-stuff)
 
 ---
@@ -164,6 +202,248 @@ Visual: Amorphous, cloud-like forms with faint glowing cores visible briefly as 
 ### Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers
 Small, aggressive swarm units attacking in packs, easily dispatched alone but overwhelming in numbers. Attracted by loud noises, bright lights, or prolonged player presence.
 Visual: Small, bat-like, pitch-black winged creatures with sharp talons, elongated skulls, emitting high-pitched screeches during swarming attacks.
+
+---
+
+## Mission Types
+### General missions
+General mission rewards would include things like ship, armour and weapon cosmetics, badges, boosters, fuel and settlement supplies.
+#### Eliminate Horde
+    Objective: Clear an area swarming with Echoes.
+    Gameplay: Emphasis on combat, resource management, and coordinated firepower. Requires strategic use of choke points and environment destructibility.
+    Rewards: Basic fuel, ammunition caches, and experience for settlement defenders.
+
+#### Eliminate High-Value Target
+    Objective: Assassinate or neutralize a uniquely dangerous Echo variant or Echo Prime spawn.
+    Gameplay: Tactical positioning, identifying weak points, and targeted combat.
+    Rewards: Specialized materials and intel unlocking special weapon upgrades or defensive structures.
+
+#### Investigate Area
+    Objective: Enter unexplored or anomalous regions, gather intel, scan anomalies, or document Echo behavior.
+    Gameplay: Exploration, stealth, environmental puzzle-solving, and cautious movement.
+    Rewards: Intel for unlocking technologies, structural blueprints, intel on enemies and/or settlement upgrades.
+
+#### Protect Convoy/Research Team
+    Objective: Escort NPC allies transporting valuable cargo, data, or research materials.
+    Gameplay: Defensive gameplay, positional awareness, enemy wave management, and environmental hazards.
+    Reward: High-tier settlement resources, advanced gadgets or essential research materials.
+
+#### Gather Supplies
+    Objective: Retrieve scattered general supplies and resources across dangerous, sprawling maps.
+    Gameplay: Resource management, risk vs. reward exploration, timed decision-making, and navigating discrepancies.
+    Reward: Essential supplies—fuel, ammo, medicine, and construction materials.
+
+#### Retrieve Special Item
+    Objective: Find and safely extract a unique piece of ancient or experimental technology from hostile environments.
+    Gameplay: Stealth, precise extraction, high enemy alert levels, and escape scenarios.
+    Reward: New technologies, powerful settlement structures, or unique gadgets.
+
+### Special Missions
+Special missions will add buffs/debuffs to consequent runs for a limited amount of time
+#### Reality Calibration
+    Objective: Locate and activate Reality Stabilization Beacons across mirror dimensions.
+    Gameplay: Players navigate two mirrored maps simultaneously, coordinating closely. Activating beacons temporarily resolves reality discrepancies but draws intense Echo aggression.
+    Reward: Technology that reduces environmental discrepancies or unlocks special dual-reality gear.
+
+#### Chronometric Heist
+    Objective: Raid unstable temporal zones to extract "Chrono Shards," valuable temporal crystals.
+    Gameplay: Players navigate superpositioned states, stealthily avoiding temporal echoes. Alerting temporal echoes triggers difficult paradox encounters.
+    Reward: Chrono Shards used for unique settlement upgrades enabling limited temporal manipulation (e.g., brief rewinds).
+
+#### Void Reconnaissance
+    Objective: Deploy sensor arrays into pitch-black or zero-gravity areas infested by unseen Echo variants.
+    Gameplay: Emphasis on darkness navigation, sensory deprivation, careful equipment deployment, and sudden ambushes from undetectable enemies.
+    Reward: Sensors that provide enhanced enemy detection systems or defensive settlement perimeter upgrades.
+
+#### Echo Genesis
+    Objective: Capture live Echo specimens by setting careful environmental traps and baiting them.
+    Gameplay: Tactical trap-setting, precise timing, cooperative baiting strategies, managing highly unpredictable enemy behavior without killing targets.
+    Reward: Advanced research unlocking biological enhancements, adaptation skills, or specialized defensive equipment based on Echo traits.
+
+#### Entropy Containment
+    Objective: Seal dangerous entropy leaks destabilizing map sectors. Rapid reality deterioration if unchecked.
+    Gameplay: Fast-paced, teamwork-oriented repairs while under intense enemy and environmental pressure. Players must seal leaks quickly or areas become impassable.
+    Reward: Resources for entropy-based defenses or specialized "entropy shield" gear reducing damage from environmental hazards.
+
+#### Temporal Sabotage
+    Objective: Sabotage Echo growth chambers located within shifting timelines, halting Echo reproduction temporarily.
+    Gameplay: Players strategically infiltrate heavily defended Echo nurseries, fighting enemies across shifting temporal environments with fluctuating gravitational fields and structural instabilities.
+    Reward: Temporary reduction in global Echo spawn rates, settlement-wide buffs, and rare temporal artifacts for upgrades.
+
+#### Lost Voices
+    Objective: Retrieve logs, recordings, or memories from lost human expeditions scattered across highly distorted areas.
+    Gameplay: Navigate complex discrepancy areas, decoding distorted audio cues, and avoiding emotional adaptation traps.
+    Reward: Valuable lore-rich narrative content, inspiration boosting settlement morale (boosted productivity), and special reputation-based bonuses.
+
+#### Echo Refraction
+    Objective: Deliberately trigger large-scale environmental discrepancies to isolate or destroy Echo clusters.
+    Gameplay: Players must carefully manipulate environment destructibility, reality inconsistencies, and timed detonations. Miscalculations can trap or harm players.
+    Reward: Unlock environment control gadgets or facility upgrades, granting limited map alteration capabilities in future runs.
+
+#### Void Salvage
+    Objective: Navigate partially destroyed ships or space stations adrift in hazardous void space. Salvage vital equipment before structural collapse or Echo infestation consumes it entirely.
+    Gameplay: Rapid decision-making, zero-gravity maneuvering, risk-heavy resource extraction amid escalating structural integrity failure.
+    Reward: High-value equipment for advanced upgrades—rare settlement modules, energy cores, or specialty armor.
+
+#### Dimensional Diplomacy
+    Objective: Establish limited contact with mysterious entities within mirror realities to secure temporary cooperation against Echo threats.
+    Gameplay: Missions emphasize cautious non-combat interaction, puzzle-solving, and precise communication to avoid triggering catastrophic misunderstandings or hostility.
+    Reward: Unique diplomatic bonuses granting temporary ally support during specific missions, and unlocking advanced cross-dimensional technologies or research paths.
+
+#### Settlement Raids
+    Objective: Fend off an echo infestation to your settlement before they destroy it.
+    Gameplay: Running around your own settlement helping the NPCs there defend it from invasion, keeping buildings and PoIs from being destroyed or consumed.
+    Reward: Settlement supplies but also settlement destruction depending on the amount of damage done.
+
+---
+## The Ending
+The "ending" is an event called Infinite Refraction, and it follows as such:
+Players realize the Echo infestation is infinite and unstoppable. The ultimate objective shifts to simply just trying to push back an unending horde. Missions become endless loops, progressively more difficult, tasked with mitigating Echo expansion infinitely.
+
+Rewards would pertain to things such as:
+- Progressive cosmetic and gear upgrades showing veteran statuses,
+- Increasingly rare prestige rewards,
+- Special in-game titles, 
+- and dynamic, procedurally evolving challenges maintaining long-term engagement.
+
+---
+
+## Maps
+### Elysium Derelicts
+Overview: Massive, abandoned luxury colony-ships adrift in space, half-consumed by Echo infestations and structural decay. Once extravagant, the interior is now a twisted labyrinth of shattered grandeur.
+Environment:
+- Sprawling decks of lavish atriums, theaters, pools, and grand dining halls now eerie and ruined.
+- Flickering holographic displays and ambient luxury music occasionally reactivating, drawing unwanted attention.
+- Collapsing floors and unstable architecture, revealing space voids beneath.
+
+Hazards:
+- Structural integrity failures causing sudden decompression or gravity loss.
+- Swarms of Echoes attracted by lingering electronic displays and sounds.
+- Hidden areas within wrecked luxury cabins housing specialized Echo variants and loot.
+
+### Hyperion Stations
+Overview: Massive research stations orbiting a fractured planet. Labs designed to study quantum anomalies are now permanently caught between shifting states of reality.
+Environment:
+- Sterile, clinical lab environments contrasted sharply by distorted anomaly sectors.
+- Large observation decks overlooking the cracked, glowing planetary surface.
+- Reality discrepancies frequently manifest, splitting rooms into mirror realities without warning.
+
+Hazards:
+- Sudden, dangerous reality shifts causing players to become separated or trapped.
+- Highly aggressive Echoes attracted by quantum distortions, particularly Spiculomorpha and Pravustrahentium.
+- Gravity fluctuations creating challenging traversal sequences.
+
+### The Icarus Belt
+Overview: A vast asteroid belt filled with fragmented remains of mining stations and freighters torn apart by unknown phenomena. Players move between floating wreckage via airlocks and spacewalks.
+Environment:
+- Zero-gravity traversal among asteroid chunks and debris fields.
+- Compact interiors of mining vessels filled with tight corridors and confined rooms.
+- Derelict structures interconnected by short spacewalk segments.
+
+Hazards:
+- Drifting debris posing collision risks during external traversals.
+- Ambushes by Aerivenari and Nebulaphaga units in zero-gravity voids.
+- Oxygen management and timed sections critical to survival.
+
+### The Whispering Caverns
+Overview: An extensive, hollowed asteroid serving as an abandoned Echo research facility. Its honeycombed tunnels, excavated chambers, and hidden labs resonate unnaturally.
+Environment:
+- Complex network of claustrophobic, dark tunnels and expansive research chambers.
+- Bio-luminescent fungal growths providing limited, eerie illumination.
+- Persistent echoing whispers—voices from past victims or Echoformis—disorienting players.
+
+Hazards:
+- Sensory disruption caused by Echoformis units mimicking voice communications.
+- Concealed Drummers and Rushers frequently lurking within dark, confined spaces.
+- Environmental instability, sudden cave-ins, and rockslides.
+
+### Zephyr Outposts
+Overview: Remote planetary outposts located on storm-ravaged worlds. Constantly battered by violent, electric storms and volatile atmospheric anomalies.
+Environment:
+- Outdoor areas exposed to fierce storms, forcing players into timed sprints between buildings.
+- Interconnected outpost structures with fortified interior shelters.
+- Complex underground tunnels designed as safe havens from the storms but now infested by Echoes.
+
+Hazards:
+- Periodic electrical storms forcing strategic movement between safe zones.
+- Ferrivora variants attracted by electric discharges, aggressively pursuing players outdoors.
+- Electromagnetic interference disrupting equipment and navigation.
+
+### Calypso Archives
+Overview: Colossal orbital archive stations once holding extensive human and alien historical records. Now partially corrupted by entropy and reality fractures.
+Environment:
+- Massive libraries and data centers, sprawling vertically and horizontally, with layers of preservation pods and research rooms.
+- Reality anomalies causing hallways and sections to periodically rearrange.
+- Many areas partially digitized or stuck between physical and holographic states.
+
+Hazards:
+- Entropy leaks steadily degrading areas, requiring swift player movement and repairs.
+- Frequent environmental reshaping by Pravustrahentium creating confusing navigation.
+- Data corruption traps that temporarily disable HUD or distort audio-visual perception.
+
+### Theta class Nexus Relays 
+Overview: Critical communication relay hubs suspended within a nebula. Its internal architecture is twisted by gravity anomalies and nebular influence.
+Environment:
+- Spinning rings and interlocking corridors constantly shifting orientation.
+- Transparent sections displaying mesmerizing nebular gases, concealing approaching threats.
+- Low visibility and distorted auditory cues through nebular interference.
+
+Hazards:
+- Frequent gravity anomalies causing sudden shifts in orientation, complicating combat and traversal.
+- Nebulaphaga thriving in thick nebular mists, draining health gradually unless countered.
+- Swarms utilizing low visibility to ambush players unpredictably.
+
+### Perdition Arks
+Overview:
+Secretive, ancient vessels drifting silently, all presumed lost to the void. Internally, it’s a hostile, living nightmare composed of organic and inorganic materials fused disturbingly together.
+Environment:
+- Bio-organic corridors pulsating and shifting, responding to players.
+- Areas alternate randomly between unsettling organic interiors and sterile metallic chambers.
+- Entrances and exits closing and reopening unpredictably.
+
+Hazards:
+- Emotional adaptation: environment reacts negatively to aggressive or panicked player behaviors, causing increased hazard occurrence. (If implemented, otherwise have the ship get "mood swings")
+- Frequent ambushes by Carnifex and Mimica units using environmental camouflage.
+- Bio-hazardous traps that immobilize or temporarily incapacitate players.
+
+### Lucidity Cathedrals
+Overview: Towering cathedral-like stations constructed for psychological and physiological research, now drifting abandoned. Players experience environmental hallucinations and emotional distortions.
+Environment:
+- Grand gothic architecture with stained glass windows distorted by reality anomalies.
+- Psychological anomalies triggering powerful hallucinations altering players' perception temporarily.
+- Large central chambers offering open combat contrasted by narrow hallways and hidden passages.
+
+Hazards:
+- Lucernavora attracting players toward hypnotic visual traps.
+- Distortion fields causing brief but intense emotional states (panic, dread), impacting player performance.
+- Gazer sentinels causing persistent distress in large open areas.
+  *note that all effects like "panic" are GUI effects and even control effects, I cannot program a user to induce fear in them*
+
+### Rift Stations
+Overview: Stations orbiting dangerously close to a massive black hole, suffering severe gravitational anomalies and time dilation effects.
+Environment:
+- Areas experiencing varied gravitational forces, including zero-G, low-G, and crushing high-gravity zones.
+- Interiors warped and elongated by gravitational tidal forces, corridors stretching impossibly far or collapsing abruptly.
+- Visible through windows: the looming, hypnotic presence of the black hole’s event horizon.
+
+Hazards:
+- Time dilation traps creating slow-motion or accelerated player movement, complicating combat and traversal strategies.
+- Echo variants uniquely adapted to gravity fluctuations (Aerivenari and Floaters dominate here).
+- Hull breaches causing lethal decompression events, requiring rapid sealing and repair to avoid catastrophe.
+
+---
+
+## Agents
+### Weaponry
+
+### Gadgets
+
+### Other mechanics
+
+
+### Abilities
+
+### Stats
 
 ---
  ## Other useful stuff:
