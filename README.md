@@ -21,6 +21,13 @@ Right yeah so I had some 01:00 inspiration and here it is.
     - [Tenebridae Umbrapedes (Umbra, Latin "shadow"; Pedes, Latin "feet"), Shades](#tenebridae-umbrapedes-umbra-latin-shadow-pedes-latin-feet-shades)
     - [Tenebridae Pravustrahentium (Pravus, Latin "perverse"; trahentium, Latin "trail"), Distorters](#tenebridae-pravustrahentium-pravus-latin-perverse-trahentium-latin-trail-distorters)
     - [Tenebridae Ferrivora (Ferri, Latin "iron"; Vora, Latin "devour"), Corroders](#tenebridae-ferrivora-ferri-latin-iron-vora-latin-devour-corroders-1)
+    - [Tenebridae Echoformis (Echo, Greek/Latin "echo"; Formis, Latin "shaped"), Whisperers](#tenebridae-echoformis-echo-greeklatin-echo-formis-latin-shaped-whisperers)
+    - [Tenebridae Exoculidae (Ex, Latin "without"; Oculi, Latin "eyes"), Gazers](#tenebridae-exoculidae-ex-latin-without-oculi-latin-eyes-gazers)
+    - [Tenebridae Aerivenari (Aeri, Latin "air"; Venari, Latin "hunt"), Floaters](#tenebridae-aerivenari-aeri-latin-air-venari-latin-hunt-floaters)
+    - [Tenebridae Spiculomorpha (Spicula, Latin "spike"; Morpha, Latin "shape"), Impailers](#tenebridae-spiculomorpha-spicula-latin-spike-morpha-latin-shape-impailers)
+    - [Tenebridae Carnifex (Carnifex, Latin "executioner"), Reapers](#tenebridae-carnifex-carnifex-latin-executioner-reapers)
+    - [Tenebridae Nebulaphaga (Nebula, Latin "mist"; Phaga, Latin "eater"), Fog Eaters](#tenebridae-nebulaphaga-nebula-latin-mist-phaga-latin-eater-fog-eaters)
+    - [Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers](#tenebridae-furivolans-furor-latin-rage-volans-latin-flying-swarmers)
   - [Other useful stuff:](#other-useful-stuff)
 
 ---
@@ -102,7 +109,7 @@ Anyway, they're adaptable creatures on a species level, but usually specialised 
 All names below are up for debate lol, I just had some fun.
 
 ### Tenebridae Resonaphora (Resona, Latin "resonate"; Phora, Latin "carrier"), Drummers
-Emits periodic, rhythmic clicking using sensory feelers extending from its head down to the floor. Movement by players or objects or just general movement in closeish proximity during clicks creates detectable vibrations. Excessive vibrations will alert the drummer, and it will proceed to attempt to alert nearby enemies while aggressively homing in on the vibrations. The range of the drummer can be determined by the intensity of the clicks and the size / amount of the feelers.
+Emits periodic, rhythmic drums using sensory feelers extending from its head down to the floor. Movement by players or objects or just general movement in closeish proximity during clicks creates detectable vibrations. Excessive vibrations will alert the drummer, and it will proceed to attempt to alert nearby enemies while aggressively homing in on the vibrations. The range of the drummer can be determined by the intensity of the clicks and the size / amount of the feelers.
 Visually, they look like tall humanoids with an amount of feelers extending down from their head down to the floor, usually slightly curled up and away from the floor when not in its detection phase. They have pale, ghostly skin with legs that suffer from holes and no distinct arms apart from where larger holes seem to seperate from the central mass to other masses that could resemble arm growths. 
 They attack at a small range by flinging the feelers at the target.
 
@@ -127,8 +134,36 @@ Confuse players by leaving false footprints or emitting misleading audio cues. I
 Visual: Shifting, shimmering, ethereal humanoid forms partially phased in reality, distorting nearby air like heat haze. Their full body is a colour-changing, large incestoid of a humanoid stature, with segements like a centepede and 6 furred leg/arm like appendages
 
 ### Tenebridae Ferrivora (Ferri, Latin "iron"; Vora, Latin "devour"), Corroders
-Actively seek out metallic or electronic equipment, rapidly damaging player gear upon touch, draining ammo or battery life. Prioritize aggressive action toward the best-equipped player.
+Actively seek out metallic or electronic equipment, rapidly damaging player gear upon touch, draining ammo or battery life. Prioritize aggressive action toward the best-equipped player. Aggro'd towards whatever the largest electric discharge nearby is
 Visual: Bulky, quadrupedal, beetle-like armor-plated bodies, emitting rust-colored corrosive fluids; thick appendages lined with acidic secretions.
+
+### Tenebridae Echoformis (Echo, Greek/Latin "echo"; Formis, Latin "shaped"), Whisperers
+Repeatedly whisper distorted phrases players have recently spoken in voice chat, confusing communication. Will physically attack only if provoked directly.
+Visual: Skeletal, humanoid frames, large gaping mouths, no visible eyes or ears, translucent ghostly skin pulsating as it echoes voices.
+
+### Tenebridae Exoculidae (Ex, Latin "without"; Oculi, Latin "eyes"), Gazers
+Stationary sentries with numerous "eye" sockets scanning a wide area. They cause continuous distress (slowed movement and blurred vision) to players within their gaze. Can only be safely bypassed using cover or by destroying their eye clusters.
+Visual: Monolithic columns of pale, stone-like flesh, densely packed clusters of empty eye sockets, rotating slowly, twitching constantly.
+
+### Tenebridae Aerivenari (Aeri, Latin "air"; Venari, Latin "hunt"), Floaters
+Patrol open, airy spaces by hovering silently above. Attack by dropping onto targets and lifting them briefly to cause injury and separation from teammates. Avoidable by observing shadows or listening for subtle air currents.
+Visual: Large, swollen balloon-like bodies with hanging skeletal arms, floating silently; bodies pulsate gently, breathing rhythmically as they glide.
+
+### Tenebridae Spiculomorpha (Spicula, Latin "spike"; Morpha, Latin "shape"), Impailers
+Rapidly dash short distances, stabbing players with long protruding spikes, causing significant bleeding damage. Highly agile but fragile.
+Visual: Thin, wiry figures covered in bone-white, razor-sharp spikes protruding chaotically in all directions, insect-like movements, twitchy and erratic.
+
+### Tenebridae Carnifex (Carnifex, Latin "executioner"), Reapers
+Powerful, tank-like entities with extreme melee damage. Slow until alerted, then charge ferociously toward players, destroying structures and obstacles in pursuit.
+Visual: Hulking, humanoid monstrosities with grotesquely enlarged upper bodies, massive arms ending in cleaver-like bone appendages; faces masked with crude bone plates.
+
+### Tenebridae Nebulaphaga (Nebula, Latin "mist"; Phaga, Latin "eater"), Fog Eaters
+Only emerge within foggy or misty rooms, invisible except as disturbances within mist. Gradually drain health if a player stays within mist for too long; repelled by heat sources or ventilation.
+Visual: Amorphous, cloud-like forms with faint glowing cores visible briefly as shadows passing through mist -- they have coporeal forms that can be killed in mirror dimensions
+
+### Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers
+Small, aggressive swarm units attacking in packs, easily dispatched alone but overwhelming in numbers. Attracted by loud noises, bright lights, or prolonged player presence.
+Visual: Small, bat-like, pitch-black winged creatures with sharp talons, elongated skulls, emitting high-pitched screeches during swarming attacks.
 
 ---
  ## Other useful stuff:
