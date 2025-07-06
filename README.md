@@ -28,6 +28,8 @@ Right yeah so I had some 01:00 inspiration and here it is.
     - [Tenebridae Carnifex (Carnifex, Latin "executioner"), Reapers](#tenebridae-carnifex-carnifex-latin-executioner-reapers)
     - [Tenebridae Nebulaphaga (Nebula, Latin "mist"; Phaga, Latin "eater"), Fog Eaters](#tenebridae-nebulaphaga-nebula-latin-mist-phaga-latin-eater-fog-eaters)
     - [Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers](#tenebridae-furivolans-furor-latin-rage-volans-latin-flying-swarmers)
+    - [Tenebridae Animarepetit (Anima, Latin "soul"; repetit, Latin "taker"), Demons](#tenebridae-animarepetit-anima-latin-soul-repetit-latin-taker-demons)
+    - [Tebridae Lucendifur (Lucendi, Latin "lightning"; Fur, Latin "thief"), Drainers](#tebridae-lucendifur-lucendi-latin-lightning-fur-latin-thief-Drainers)
   - [Mission Types](#mission-types)
     - [General missions](#general-missions)
       - [Eliminate Horde](#eliminate-horde)
@@ -197,11 +199,19 @@ Visual: Hulking, humanoid monstrosities with grotesquely enlarged upper bodies, 
 
 ### Tenebridae Nebulaphaga (Nebula, Latin "mist"; Phaga, Latin "eater"), Fog Eaters
 Only emerge within foggy or misty rooms, invisible except as disturbances within mist. Gradually drain health if a player stays within mist for too long; repelled by heat sources or ventilation.
-Visual: Amorphous, cloud-like forms with faint glowing cores visible briefly as shadows passing through mist -- they have coporeal forms that can be killed in mirror dimensions
+Visual: Amorphous, cloud-like forms with faint glowing cores visible briefly as shadows passing through mist -- they have coporeal forms that can be killed in mirror dimensions.
 
 ### Tenebridae Furivolans (Furor, Latin "rage"; Volans, Latin "flying"), Swarmers
 Small, aggressive swarm units attacking in packs, easily dispatched alone but overwhelming in numbers. Attracted by loud noises, bright lights, or prolonged player presence.
 Visual: Small, bat-like, pitch-black winged creatures with sharp talons, elongated skulls, emitting high-pitched screeches during swarming attacks.
+
+### Tenebridae Animarepetit (Anima, Latin "soul"; repetit, Latin "taker"), Demons
+Silently possesses hosts, making enemies faster and more aggressive. When the host is killed, it moves to a new nearby host. If possessing a player in this way, the player may be prone to various effects, such as seeing enemies in the place of teammates, randomly shooting without control, not being able to speak, or even fully losing control and having the Demon attack teammates. Can only be killed in mirror dimensions, but cannot possess enemies in mirror dimensions. If a demon stays outside of a host for too long, it dies.
+Visual: Only visable in mirror dimensions, appears as a glowing worm hovering in the air, or wrapped up in place if currently occupying a host
+
+### Tebridae Lucendifur (Lucendi, Latin "lightning"; Fur, Latin "thief"), Drainers
+Occupies areas with high amounts of energy (Such as generator rooms, etc) and drain electricity from nearby devices and sectors of the map. Attacks by getting close and electrocuting players, draining battery charge when nearby (Maybe disabling some HUD elements?). Heals self when draining energy from players or the map, but dies quickly otherwise.
+Visual: Thin, gaunt humanoids without heads, and numerous metal conductors stuck through the body.
 
 ---
 
